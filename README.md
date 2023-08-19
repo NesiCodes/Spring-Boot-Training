@@ -36,7 +36,7 @@ Apply all Java configuration to Spring Beans (no xml)
 
 - **Description**: Covers Hibernate/JPA and JDBC with making use of MySql database
 - **Key Concepts**: <br>JPA Annotations
-- <br>Creating Database Tables java code/sql
+<br>Creating Database Tables java code/sql
 <br>CRUD operations on the Database
 <br>Minimize boilerplate code with Spring Data JPA and the JpaRepository
 <br>Refactor existing REST API to integrate with Spring Data JPA
@@ -52,7 +52,7 @@ Apply all Java configuration to Spring Beans (no xml)
 - **Description**: Covers REST Services and CRUD operations based on requests
 - **Key Concepts**:<br> Overview of REST APIs
 <br>Investigating Spring Boot REST support
-<br>Sending JSON data over HTTP<br>
+<br>Sending JSON data over HTTP
 <br>JSON Data Binding with the Jackson projectm Converting JSON data to Java POJO with Jackson
 <br>Developing a Spring Boot REST API
 <br>Creating the Spring Boot REST Controller using RestController
@@ -77,24 +77,24 @@ Apply all Java configuration to Spring Beans (no xml)
 
 - **Description**: Developing Spring MVC apalications with Thymeleaf. Focusing on Validation on fields.
 - **Key Concepts**: <br>Create controllers using Controller annotation
-- <br>Read HTML form data using RequestParam
-- <br>Leverage Spring Boot MVC model to transport data between controller and view page
-- <br>Define Request Mappings for GET and POST requests
-- <br>Minimize coding with Spring Boot MVC Form data binding
-- <br>Leverage Thymeleaf expressions to access data from the Spring Boot MVC Model
-- <br>Apply CSS stylesheets to your Thymeleaf templates
-- <br>Create a Spring MVC Validation project using the Spring Initializr website
-- <br>Apply validation rules for required fields, number ranges and regular expressions
-- <br>Leverage the InitBinder and StringTrimmerEditor to trim white spaces
+<br>Read HTML form data using RequestParam
+<br>Leverage Spring Boot MVC model to transport data between controller and view page
+<br>Define Request Mappings for GET and POST requests
+<br>Minimize coding with Spring Boot MVC Form data binding
+<br>Leverage Thymeleaf expressions to access data from the Spring Boot MVC Model
+<br>Apply CSS stylesheets to your Thymeleaf templates
+<br>Create a Spring MVC Validation project using the Spring Initializr website
+<br>Apply validation rules for required fields, number ranges and regular expressions
+<br>Leverage the InitBinder and StringTrimmerEditor to trim white spaces
 <br>Configure error messages using the messages properties file, Develop a custom validation rule using annotations
 
 ### Section 7: Spring MVC CRUD
 
 - **Description**: Developing an Spring MVC CRUD applicatio nwith Thymeleaf and Spring Data JPA. Creating a small Employee Management project.
 - **Key Concepts**:<br> Develop a real-time project with Thymeleaf and Spring Boot with full database CRUD support
-- <br>Integrate the Repository to execute CRUD actions on the Database with Spring Data JPA
-- <br>Apply best practices with the Service layer design pattern, Create a Controller to handle web browser requests
-- <br>Develop Thymeleaf templates to render database results, Beautify your Thymeleaf templates with Bootstrap CSS
+<br>Integrate the Repository to execute CRUD actions on the Database with Spring Data JPA
+<br>Apply best practices with the Service layer design pattern, Create a Controller to handle web browser requests
+<br>Develop Thymeleaf templates to render database results, Beautify your Thymeleaf templates with Bootstrap CSS
 
 ### Section 8: Spring MVC Security
 
