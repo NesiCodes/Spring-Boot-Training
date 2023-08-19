@@ -120,7 +120,8 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Mapping entities with @OneToOne, @OneToMany, @ManyToOne and @ManyToMany annotations
 <br>Exploring Uni and Bi Directional relations, Exploring EAGER and LAZY loading fetch types
 <br>Learning about Cascading and its types, Perfoming CRUD operations.
-![section9 er](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/ec472441-d17c-4da1-975e-2dfa3b4dc81a)
+![section9 er](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/c1ef134d-95fd-45dd-a130-f3911cb4bc13)
+
 
 
 ### Section 10: AOP: Aspect-Oriented Programming
