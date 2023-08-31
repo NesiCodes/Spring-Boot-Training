@@ -46,8 +46,8 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Leverage Spring
 <br>Data REST to eliminate custom code for controllers and service
 <br>Automatically expose REST endpoints for your JPA Repositories
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/32718752-7863-41f7-bdf8-f35983d7a594)
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/988f24a0-134c-4b50-8fc6-78a8adb4ae35)
+![img1](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/6c27b8bc-10be-49fa-95c2-690253e207c0)
+![img2](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/76bec2dd-b8ed-446f-82be-de546c665283)
 
 
 
@@ -65,7 +65,8 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Add Spring Boot REST exception handling with ExceptionHandler
 <br>Integrate global Spring Boot REST exception handling with ControllerAdvice
 <br>Build Spring Boot REST API to execute CRUD actions on the Database with Hibernate/JPA
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/47ad21ef-bb10-4c8c-8539-142090604182)
+![img3](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/73440590-5244-408a-b40f-b5d37de9d9e4)
+
 
 
 ### Section 5: REST Api Security
@@ -78,8 +79,8 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Add JDBC authentication store user accounts and passwords in the database
 <br>Store encrypted passwords in the database using bcrypt
 <br>Register new users and encrypt passwords using Java code
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/ef63adc1-a9d1-4f79-a9f6-babe2dfc001b)
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/d92538bc-44e2-4765-95c4-038b3c1ae939)
+![img4](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/90524980-c6b7-4cf7-9fe2-7abb27f1dd2e)
+![img5](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/9811469e-f74d-4093-aa4a-904e4f359458)
 
 
 
@@ -105,7 +106,8 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Integrate the Repository to execute CRUD actions on the Database with Spring Data JPA
 <br>Apply best practices with the Service layer design pattern, Create a Controller to handle web browser requests
 <br>Develop Thymeleaf templates to render database results, Beautify your Thymeleaf templates with Bootstrap CSS
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/b1c59644-8abc-4b1b-8a8a-cdbd9a7dcb4e)
+![img6](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/6a4c70f6-3118-4626-9763-9617d68a8b1b)
+
 
 
 ### Section 8: Spring MVC Security
@@ -132,7 +134,8 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Mapping entities with @OneToOne, @OneToMany, @ManyToOne and @ManyToMany annotations
 <br>Exploring Uni and Bi Directional relations, Exploring EAGER and LAZY loading fetch types
 <br>Learning about Cascading and its types, Perfoming CRUD operations.
-![section9 er](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/c1ef134d-95fd-45dd-a130-f3911cb4bc13)
+![img7](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/6e54127d-6de7-4769-97ed-471931fb6683)
+
 
 
 
@@ -152,7 +155,7 @@ Apply all Java configuration to Spring Beans (no xml)
 <br>Integrate AfterThrowing advice to access exceptions
 <br>Develop an AOP Advice using Around to pre-process and post-process method calls
 <br>Integrate AOP into a Spring MVC CRUD app.<br>
-![image](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/ab6f0d63-57fd-441b-a542-eac514d2f6af)
+![img8](https://github.com/NesiCodes/Spring-Boot-Training/assets/89842810/0a9f36c9-cd88-488a-9455-5bb1b2a858f1)
 
 
 ## How to Use This Repository
